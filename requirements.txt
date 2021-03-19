@@ -7,7 +7,7 @@ django-dynamic-fixture==2.0.0
 django-extensions==2.1.6
 django-redis==4.10.0
 djangodeletes==0.43
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 fuzzywuzzy==0.17.0
 gprof2dot==2017.9.19
 idna==2.8
